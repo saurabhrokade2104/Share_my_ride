@@ -1,0 +1,36 @@
+Share My Ride
+
+A Ride-Sharing Platform that connects passengers and drivers for long‑distance ride booking. The system includes booking management, authentication, and admin-level features for smooth operations.
+
+🚗 Features
+1. Long-Distance Ride Booking
+
+-Users can search and book rides for long-distance travel.
+
+-Ride details displayed with driver info, timing, and fare.
+
+2. User Authentication
+
+-Secure login and registration system.
+
+-Session-based authentication.
+
+3. Admin Dashboard
+
+-Manage users, rides, bookings.
+
+-View system statistics and logs.
+
+4. JDBC + SQL Integration
+
+-JDBC used to convert & handle SQL table data into Java-friendly formats.
+
+-Efficient CRUD operations for users, rides, and bookings.
+
+🛠️ Tech Stack
+Component	Technology
+Frontend	HTML, CSS, JS 
+Backend	Java (Core + JDBC)
+Database	MySQL / SQL
+Build Tool	Maven/Gradle 
+Version Control	GitHub
